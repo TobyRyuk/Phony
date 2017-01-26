@@ -1,0 +1,21 @@
+# Mac
+.DS_Store
+
+# Node
+node_modules/
+npm-debug.log
+.eslintcache
+.node_repl_history
+.yarn-integrity
+.yarnclean
+
+# Cordova 
+platforms/
+plugins/
+
+# Editors
+.idea/
+
+# Project
+www/bundle.js
+www/img/*
